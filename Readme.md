@@ -103,7 +103,7 @@ par le degre 2.
 ## Visualisations
 
 ### Evolution des temperatures mondiales
-![Evolution](outputs/01_evolution_temperature.png)
+![Evolution](outputs/01_revolution_temperature.png)
 
 ### Anomalies thermiques avec eruptions volcaniques
 ![Anomalies](outputs/02_anomalies_thermiques.png)
